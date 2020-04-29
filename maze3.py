@@ -158,3 +158,4 @@ if __name__ == '__main__':
 # branch is branch, merge is merge . they are different.
 
 # change master?
+# yes ,because owner gives the write right
